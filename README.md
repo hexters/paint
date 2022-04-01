@@ -2,7 +2,7 @@
 
 VIew complete documentation for [Ladmin Package &rarr;](https://github.com/hexters/ladmin)
 
-## Installation
+# Installation
 
 Add the repository by running the command below.
 
