@@ -15,7 +15,7 @@
 
 </head>
 
-<body class="bg-dark ladmin-auth">
+<body class="bg-secondary ladmin-auth">
 
     {{ $slot }}
 
