@@ -19,7 +19,9 @@ $ php artisan vendor:publish --tag=paint-module --force
 Run mix manifest.
 
 ```bash
-$ cd Modules/Paint && npm install && npm run prod
+$ cd Modules/Paint
+$ npm install
+$ npm run prod
 ```
 
 # Vintage Template
