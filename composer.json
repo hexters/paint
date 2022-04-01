@@ -1,0 +1,32 @@
+{
+    "name": "hexters/paint",
+    "type": "library",
+    "description": "Package for Ladmin template",
+    "license": "MIT",
+    "keywords": [
+        "Laravel",
+        "Ladmin Package",
+        "Ladmin Template",
+        "Laravel Template"
+    ],
+    "authors": [
+        {
+            "name": "Asep",
+            "email": "hexters@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hexters\\Paint\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hexters\\Paint\\PaintServiceProvider"
+            ],
+            "aliases": []
+        }
+    },
+    "require": {}
+}

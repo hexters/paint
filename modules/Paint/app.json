@@ -1,0 +1,8 @@
+{
+    "name": "paint",
+    "namespace": "Modules\\Paint\\",
+    "providers": [
+        "Modules\\Paint\\Providers\\PaintServiceProvider"
+    ],
+    "status": "enabled"
+}
