@@ -2,7 +2,7 @@
 
 VIew complete documentation for [Ladmin Package &rarr;](https://github.com/hexters/ladmin)
 
-## Installation
+# Installation
 
 Add the repository by running the command below.
 
@@ -19,7 +19,9 @@ $ php artisan vendor:publish --tag=paint-module --force
 Run mix manifest.
 
 ```bash
-$ cd Modules/Paint && npm install && npm run prod
+$ cd Modules/Paint
+$ npm install
+$ npm run prod
 ```
 
 # Vintage Template
