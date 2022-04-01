@@ -1,5 +1,9 @@
 # Paint (Ladmin Template)
 
+[![Latest Stable Version](https://poser.pugx.org/hexters/paint/v/stable)](https://packagist.org/packages/hexters/paint)
+[![Total Downloads](https://poser.pugx.org/hexters/paint/downloads)](https://packagist.org/packages/hexters/paint)
+[![License](https://poser.pugx.org/hexters/paint/license)](https://packagist.org/packages/hexters/paint)
+
 VIew complete documentation for [Ladmin Package &rarr;](https://github.com/hexters/ladmin)
 
 # Installation
