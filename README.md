@@ -4,7 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/hexters/paint/downloads)](https://packagist.org/packages/hexters/paint)
 [![License](https://poser.pugx.org/hexters/paint/license)](https://packagist.org/packages/hexters/paint)
 
-VIew complete documentation for [Ladmin Package &rarr;](https://github.com/hexters/ladmin)
+View complete documentation for [Ladmin Package &rarr;](https://github.com/hexters/ladmin)
 
 # Installation
 
